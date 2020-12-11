@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "angular-nativescript-tips"
+  "defaultProject": "angular-nativescript-tips",
+  "cli": {
+    "defaultCollection": "@nativescript/schematics"
+  }
 }
