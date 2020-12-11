@@ -24,7 +24,7 @@
     "@angular/router": "~11.0.4",
     "@nativescript/angular": "^11.0.0",
     "@nativescript/core": "~7.0.0",
-    "@nativescript/theme": "~2.5.0",
+    "@nativescript/theme": "^3.0.1",
     "reflect-metadata": "~0.1.12",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
